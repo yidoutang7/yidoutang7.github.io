@@ -8725,7 +8725,7 @@ label.panel-block:hover {
   -webkit-box-flex: 0;
       -ms-flex: none;
           flex: none;
-  width: 80%;
+  width: 100%;
 }
 
 .columns.is-mobile > .column.is-offset-three-quarters {
@@ -9183,7 +9183,7 @@ label.panel-block:hover {
     -webkit-box-flex: 0;
         -ms-flex: none;
             flex: none;
-    width: 80%;
+    width: 100%;
   }
   .column.is-offset-three-quarters, .column.is-offset-three-quarters-tablet {
     margin-left: 75%;
